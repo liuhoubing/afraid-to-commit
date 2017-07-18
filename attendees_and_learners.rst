@@ -1,5 +1,5 @@
 ####################
-Attendees & learners  - Bill Liu
+Attendees & learners  - Bill Liu - Local/Further
 ####################
 
 This is a record of people who attended a *Don't be afraid to commit* workshop,
